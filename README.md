@@ -23,8 +23,7 @@ The repository contains the core architectural components of the extracted Power
 *   Windows OS (or a compatible VM environment).
 *   Latest version of [Power BI Desktop](https://powerbi.microsoft.com/desktop/) installed.
 
-### Step-by-Step Installation
-1. Clone the repository directly to your local workspace:
-   ```bash
-   git clone [https://github.com/your-username/Ecommerce-Sales-Insights-Dashboard.git](https://github.com/your-username/Ecommerce-Sales-Insights-Dashboard.git)
-   cd Ecommerce-Sales-Insights-Dashboard
+## 📸 Dashboard Screenshots & Previews
+
+### 🎛️ Sales Overview & KPI Tracker
+![Ecommerce Sales Overview](https://github.com/bawa-mj/Ecommerce-Sales-Insights-Dashboard/blob/main/Ecommerce-Sales-Insights-Dashboard.png?raw=true)
